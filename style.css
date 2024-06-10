@@ -1,0 +1,47 @@
+body{
+    background-image: url(./BGimg.jfif);
+    background-repeat: no-repeat;
+}
+.main{
+    display: flex;
+    flex-direction: column;
+    padding: 30px;
+    
+
+}
+
+.navbar{
+    /* width: 150px;
+    height: 40px;
+    background-color: rgb(249, 245, 245);
+    border-radius: 5px;
+    padding: 5px; */
+}
+
+.container{
+    padding: 100px;
+    margin-top: -60px;
+    margin-left: 10%;
+}
+.card{
+    background-color: rgb(249, 245, 245);
+    width: 300px !important;
+    height: 200px !important;
+    
+    
+}
+.w-200px{
+    width: 200px !important;
+}
+.abc{
+    margin-left: 720px;
+}
+.cde{
+    border-radius: 15px;
+    padding: 8px;
+}
+
+.cartWidth{
+    width: 290px;
+    height: 200px;
+}
